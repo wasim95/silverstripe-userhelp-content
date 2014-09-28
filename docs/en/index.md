@@ -11,4 +11,4 @@ Refer to the intro for each chapter to find out the prerequisites for using a fe
 If you are a developer, we encourage you to join the 
 [development community](http://www.silverstripe.org/forums/) as the first port of call for help,
 and visit our [developer documentation](http://doc.silverstripe.org).
-Customers of SilverStripe Ltd., the company behind the CMS, should visit [silverstripe.com](http://www.silverstripe.com/).
+Customers of SilverStripe Ltd., the company behind the CMS, should visit [silverstripe.com](http://www.silver.com/).
